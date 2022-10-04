@@ -96,7 +96,7 @@ getTreatmentMean("A",,"")
 getTreatmentMean("A",1:10,"Nom")
 #Meme concepte pour le View.
 
-#Explications en dessus. Meme chose pour le View
+#Explications au dessus. Même chose pour le View
 getTraitMeansTable(c("A","B","C"),list("Cell1"=1:5, "Cell2"=6:10, "Cell3"=11:15))
 viewTraitMeansTable(c("A","B","C"),list("Cell1"=1:5, "Cell2"=6:10, "Cell3"=11:15))
 #Prends le getTraitMeansTable fait un t() dessus.
